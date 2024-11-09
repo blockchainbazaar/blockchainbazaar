@@ -1,7 +1,7 @@
 
 
 async function fetchReviews() {
-    const response = await fetch('/static/data/reviews.json'); // Path to your JSON file
+    const response = await fetch('blob:https://github.com/1b2fb970-a58c-47b8-8ddc-d08705137e36'); // Path to your JSON file
     return response.json(); // Parse and return JSON data
 }
 
