@@ -218,7 +218,7 @@ Once funds are swapped (typically within 20 seconds of reaching our wallet), ref
 
 
 We reserve the right to charge an additional fee of up to 2.5% of the total swap volume in cases of high market volatility.
-Responsibility of the User
+### Responsibility of the User
 
 
 It is your responsibility to ensure that you are sending the correct token on the correct blockchain network.
